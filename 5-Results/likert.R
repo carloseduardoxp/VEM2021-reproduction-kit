@@ -1,6 +1,6 @@
 #-------------------- 1 readability evaluation -----------------------------------
 readability = read.csv(
-"/home/carloseduardo/VEM_2021_Replication_Package/output/R_Studio_Readability.csv", header = TRUE,sep = ";")
+"/home/carloseduardo/VEM_2021_Replication_Package/5-Results/R_Studio_Readability.csv", header = TRUE,sep = ";")
 
 wilcox.test(likertAvg ~ tool, data = readability, paired = TRUE, conf.int = TRUE, conf.level = 0.95)
 
@@ -17,7 +17,7 @@ boxplot(tool.a,tool.b,names=c("High Readability","Low Readability"),
 
 #-------------------- 2 understandability evaluation -----------------------------------
 understandability = read.csv(
-        "/home/carloseduardo/VEM_2021_Replication_Package/output/R_Studio_Understandability.csv", header = TRUE,sep = ";")
+        "/home/carloseduardo/VEM_2021_Replication_Package/5-Results/R_Studio_Understandability.csv", header = TRUE,sep = ";")
 
 wilcox.test(likertAvg ~ tool, data = understandability, paired = TRUE, conf.int = TRUE, conf.level = 0.95)
 
@@ -34,7 +34,7 @@ boxplot(tool.c,tool.d,names=c("High Understandability","Low Understandability"),
 
 #-------------------- 3 readability and understandability evaluation -----------------------------------
 readund = read.csv(
-        "/home/carloseduardo/VEM_2021_Replication_Package/output/R_Studio_Readability_Understandability.csv", header = TRUE,sep = ";")
+        "/home/carloseduardo/VEM_2021_Replication_Package/5-Results/R_Studio_Readability_Understandability.csv", header = TRUE,sep = ";")
 
 wilcox.test(likertAvg ~ tool, data = readund, paired = TRUE, conf.int = TRUE, conf.level = 0.95)
 
@@ -51,7 +51,7 @@ boxplot(tool.e,tool.f,names=c("High Readability and \n\n Understandability","Low
 
 #-------------------- 4 understandability top evaluation -----------------------------------
 undTop = read.csv(
-  "/home/carloseduardo/VEM_2021_Replication_Package/output/R_Studio_UnderstandabilityTop.csv", header = TRUE,sep = ";")
+  "/home/carloseduardo/VEM_2021_Replication_Package/5-Results/R_Studio_UnderstandabilityTop.csv", header = TRUE,sep = ";")
 
 wilcox.test(likertAvg ~ tool, data = undTop, paired = TRUE, conf.int = TRUE, conf.level = 0.95)
 
