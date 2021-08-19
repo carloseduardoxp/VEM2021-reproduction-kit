@@ -47,13 +47,13 @@ Folders:
    - readability: you can run the tool rsm.jar. The readability scores will be generated in readability.txt file.
 
 ```
-java -jar rsm.jar %YOUR_PATH%/VEM_2021_Replication_Package/'2-Extract Code Snippets'/snippets/**/*.java > %YOUR_PATH%/VEM_2021_Replication_Package/'3-Collect Metrics'/readability.txt
+java -jar rsm.jar %YOUR_PATH%/'2-Extract Code Snippets'/snippets/**/*.java > %YOUR_PATH%/'3-Collect Metrics'/readability.txt
 ```
    
    - understandability: you can import the Understandability-Sonar Eclipse Project as Maven Project and run the main class org.Understandability.java. In this main class, change the path variable
    
 ```
-String path = "%YOUR_PATH%/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets";
+String path = "%YOUR_PATH%/2-Extract Code Snippets/snippets";
 ```
 
 The console will output the metric values for all java classes inside this directory. The output can be shown at understandability.txt file.
