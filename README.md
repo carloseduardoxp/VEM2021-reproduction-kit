@@ -92,7 +92,11 @@ In this step, we created a simple Java Project called GenerateRInput to generate
 
 - R_Studio_Readability_Understandability.csv : 10 queries with 20 code snippets separated by best and worst readability and understandability criteria, and the average developers likert evaluation.
 
+The R scripts are:
 
+- kappa.R - is a R script to calculate the kappa agreement between the five developers.
+
+- likert.R - is a R script to run the Wilcoxon signed-rank test to extract the p-value, effect size and produces the boxplots.
 
 
 Something not working as expected?
