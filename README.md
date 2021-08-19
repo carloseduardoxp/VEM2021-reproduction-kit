@@ -18,7 +18,7 @@ Softwares:
 ```
 1. Java 1.8+
 2. Eclipse IDE for Java EE developers or Spring Tool Suite
-3. RStudio
+3. RStudio and R
 ```
 
 Step 1 - Select Queries
@@ -71,6 +71,7 @@ In this step, we created the survey. You can see the questions and even answer (
 To create the survey, we splitted the 30 questions as you can see on the General sheet in the file SnippetsMap.xlsx
 
 For example: 
+
     - Query 6 has the understandability criteria and the best snippet is in the right side. 
     
     - Query 7 has the readability criteria and the best snippet is in the left side.
@@ -78,6 +79,22 @@ For example:
 The five developers answers can be accessed on developersGoogleDocsEvaluation.csv file.
 
 
+Step 5 - Results
+-----------------------------------------------------------
+
+Location: 5-Results
+
+In this step, we created a simple Java Project called GenerateRInput to generate the input csv files to R (or RStudio). This project reads the developers evaluations and produces 3 files: 
+
+- R_Studio_Readability.csv : 10 queries with 20 code snippets separated by best and worst readability criteria, and the average developers likert evaluation.
+
+- R_Studio_Understandability.csv : 10 queries with 20 code snippets separated by best and worst understandability criteria, and the average developers likert evaluation.
+
+- R_Studio_Readability_Understandability.csv : 10 queries with 20 code snippets separated by best and worst readability and understandability criteria, and the average developers likert evaluation.
 
 
 
+
+Something not working as expected?
+------------------------------------------------------------------------
+Create an issue from [here](https://github.com/carloseduardoxp/VEM2021-reproduction-kit/issues/new)
