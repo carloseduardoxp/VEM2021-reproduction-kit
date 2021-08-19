@@ -1,0 +1,198 @@
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query09/CodeSnippet1.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query09/CodeSnippet2.java: From Sonar: 2.0 - final score: 0.8666666666666667
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query08/CodeSnippet1.java: From Sonar: 5.0 - final score: 0.6666666666666667
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query08/CodeSnippet2.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query20/CodeSnippet1.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query20/CodeSnippet2.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query17/CodeSnippet1.java: From Sonar: 4.0 - final score: 0.7333333333333334
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+WARN  Unresolved imports/types have been detected during analysis. Enable DEBUG mode to see them.
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query17/CodeSnippet2.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query11/CodeSnippet1.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query11/CodeSnippet2.java: From Sonar: 1.0 - final score: 0.9333333333333333
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query27/CodeSnippet1.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query27/CodeSnippet2.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query22/CodeSnippet1.java: From Sonar: 1.0 - final score: 0.9333333333333333
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query22/CodeSnippet2.java: From Sonar: 1.0 - final score: 0.9333333333333333
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query12/CodeSnippet1.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query12/CodeSnippet2.java: From Sonar: 1.0 - final score: 0.9333333333333333
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query14/CodeSnippet1.java: From Sonar: 1.0 - final score: 0.9333333333333333
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+WARN  Unresolved imports/types have been detected during analysis. Enable DEBUG mode to see them.
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query14/CodeSnippet2.java: From Sonar: 9.0 - final score: 0.4
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query04/CodeSnippet1.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+WARN  Unresolved imports/types have been detected during analysis. Enable DEBUG mode to see them.
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query04/CodeSnippet2.java: From Sonar: 2.0 - final score: 0.8666666666666667
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query01/CodeSnippet1.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query01/CodeSnippet2.java: From Sonar: 1.0 - final score: 0.9333333333333333
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query07/CodeSnippet1.java: From Sonar: 1.0 - final score: 0.9333333333333333
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query07/CodeSnippet2.java: From Sonar: 1.0 - final score: 0.9333333333333333
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+WARN  Unresolved imports/types have been detected during analysis. Enable DEBUG mode to see them.
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query19/CodeSnippet1.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+WARN  Unresolved imports/types have been detected during analysis. Enable DEBUG mode to see them.
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query19/CodeSnippet2.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+WARN  Unresolved imports/types have been detected during analysis. Enable DEBUG mode to see them.
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query18/CodeSnippet1.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+WARN  Unresolved imports/types have been detected during analysis. Enable DEBUG mode to see them.
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query18/CodeSnippet2.java: From Sonar: 1.0 - final score: 0.9333333333333333
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+WARN  Unresolved imports/types have been detected during analysis. Enable DEBUG mode to see them.
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query10/CodeSnippet1.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+WARN  Unresolved imports/types have been detected during analysis. Enable DEBUG mode to see them.
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query10/CodeSnippet2.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+WARN  Unresolved imports/types have been detected during analysis. Enable DEBUG mode to see them.
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query05/CodeSnippet1.java: From Sonar: 2.0 - final score: 0.8666666666666667
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query05/CodeSnippet2.java: From Sonar: 1.0 - final score: 0.9333333333333333
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query25/CodeSnippet1.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+WARN  Unresolved imports/types have been detected during analysis. Enable DEBUG mode to see them.
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query25/CodeSnippet2.java: From Sonar: 1.0 - final score: 0.9333333333333333
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query06/CodeSnippet1.java: From Sonar: 4.0 - final score: 0.7333333333333334
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query06/CodeSnippet2.java: From Sonar: 2.0 - final score: 0.8666666666666667
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query29/CodeSnippet1.java: From Sonar: 5.0 - final score: 0.6666666666666667
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query29/CodeSnippet2.java: From Sonar: 1.0 - final score: 0.9333333333333333
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query02/CodeSnippet1.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query02/CodeSnippet2.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query03/CodeSnippet1.java: From Sonar: 1.0 - final score: 0.9333333333333333
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query03/CodeSnippet2.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query24/CodeSnippet1.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+WARN  Unresolved imports/types have been detected during analysis. Enable DEBUG mode to see them.
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query24/CodeSnippet2.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+WARN  Unresolved imports/types have been detected during analysis. Enable DEBUG mode to see them.
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query23/CodeSnippet1.java: From Sonar: 2.0 - final score: 0.8666666666666667
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query23/CodeSnippet2.java: From Sonar: 5.0 - final score: 0.6666666666666667
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+WARN  Unresolved imports/types have been detected during analysis. Enable DEBUG mode to see them.
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query21/CodeSnippet1.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query21/CodeSnippet2.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query28/CodeSnippet1.java: From Sonar: 1.0 - final score: 0.9333333333333333
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query28/CodeSnippet2.java: From Sonar: 8.0 - final score: 0.4666666666666667
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query13/CodeSnippet1.java: From Sonar: 7.0 - final score: 0.5333333333333333
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+WARN  Unresolved imports/types have been detected during analysis. Enable DEBUG mode to see them.
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query13/CodeSnippet2.java: From Sonar: 2.0 - final score: 0.8666666666666667
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query26/CodeSnippet1.java: From Sonar: 3.0 - final score: 0.8
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query26/CodeSnippet2.java: From Sonar: 4.0 - final score: 0.7333333333333334
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+WARN  Unresolved imports/types have been detected during analysis. Enable DEBUG mode to see them.
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query30/CodeExample1.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+WARN  Unresolved imports/types have been detected during analysis. Enable DEBUG mode to see them.
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query30/CodeExample2.java: From Sonar: 4.0 - final score: 0.7333333333333334
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query16/CodeSnippet1.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query16/CodeSnippet2.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query15/CodeSnippet1.java: From Sonar: 0.0 - final score: 1.0
+INFO  1 source file to be analyzed
+INFO  1/1 source file has been analyzed
+Metric for /home/carloseduardo/VEM_2021_Replication_Package/2-Extract Code Snippets/snippets/Query15/CodeSnippet2.java: From Sonar: 3.0 - final score: 0.8
+

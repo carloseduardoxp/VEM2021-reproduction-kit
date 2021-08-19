@@ -1,0 +1,57 @@
+count,processedquerytext,Query Evaluation
+819,remove element array,Query 13
+332,add element array,Query 7
+68,sort array,Query 4
+40,remove element list,
+38,create thread,Query 23
+33,create array,
+30,sort list,Query 16
+29,read file,Query 14
+24,split string,Query 3
+24,convert file path url,Query 15
+24,convert int string,Query 20
+23,initialize array,Query 19
+22,reverse string,Query 1
+18,declare variable,
+18,create class,
+17,write file,
+17,convert string int,
+16,reverse array,
+15,add two numbers,Query 2
+15,generate random number,Query 27
+14,iterate array,Query 22
+14,concatenate strings,Query 21
+14,insert element array,
+13,reverse linked list,
+12,compare strings,Query 12
+12,build rest service java,
+11,deserialize json string object,
+11,implement interface,
+11,iterate map,Query 11
+11,start thread,Query 18
+11,create object,
+10,concatenate two arrays,Query 24
+10,read csv file,Query 30
+10,open ssl connection,
+10,declare class,
+9,delete file,
+9,open file,
+8,clean array,Query 17
+8,make http request,Query 28
+8,copy array,Query 9
+8,create singleton,
+8,create function,
+8,connect database,
+7,declare interface,
+7,make http request,
+7,handle exceptions,Query 29
+6,append middle array,
+5,parse date,Query 10
+5,find odd numbers,Query 26
+4,encrypt string,Query 8
+4,print elements array,
+4,put data web page database,
+4,instantiate class,
+3,iterate filter stream,Query 25
+3,calculate leap year,Query 6
+3,convert byte array,Query 5
