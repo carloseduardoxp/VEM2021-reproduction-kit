@@ -6,7 +6,7 @@ Readability and Understandability Scores for Snippet Assessment: an Exploratory 
 Carlos Eduardo C. Dantas; Marcelo A. Maia
 ```
 
-[![DOI](https://zenodo.org/badge/138428994.svg)](https://zenodo.org/10.5281/zenodo.5224346)
+[![DOI](https://zenodo.org/badge/138428994.svg)](https://zenodo.org/record/5224346#.YR8B4DrQ9H6)
 
 Prerequisites
 -----------------------------------------------------------
@@ -24,7 +24,7 @@ Softwares:
 Step 1 - Select Queries
 -----------------------------------------------------------
 
-Location: 1-Select Queries
+Location: [1-Select Queries](https://github.com/carloseduardoxp/VEM2021-reproduction-kit/tree/main/1-Select%20Queries)
 
 Files: 
    - queries.csv:  with the processed queries (removing stop words and punctuation) and the count of used as input in [CROKAGE tool](http://isel.ufu.br:9000/)
@@ -32,7 +32,7 @@ Files:
 Step 2 - Extracting Code Snippets
 -----------------------------------------------------------
 
-Location: 2-Extract Code Snippets
+Location: [2-Extract Code Snippets](https://github.com/carloseduardoxp/VEM2021-reproduction-kit/tree/main/2-Extract%20Code%20Snippets)
 
 Folders: 
    - snippets: the extracted code snippets for 30 selected queries using CROKAGE and GOOGLE as code search engines. This is a manual process.
@@ -42,7 +42,7 @@ Files
 Step 3 - Collect Metrics
 -----------------------------------------------------------
 
-Location: 3-Collect Metrics
+Location: [3-Collect Metrics](https://github.com/carloseduardoxp/VEM2021-reproduction-kit/tree/main/3-Collect%20Metrics)
 Folders: 
    - readability: you can run the tool rsm.jar. The readability scores will be generated in readability.txt file.
 
@@ -64,7 +64,7 @@ Step 4 - Developers Evaluation
 -----------------------------------------------------------
 
 
-Location: 4-Developers Evaluation
+Location: [4-Developers Evaluation](https://github.com/carloseduardoxp/VEM2021-reproduction-kit/tree/main/4-Developers%20Evaluation)
 
 In this step, we created the survey. You can see the questions and even answer (if you want) on the followed link: https://docs.google.com/forms/d/e/1FAIpQLScgznWH5BAQERB08SWuNgOElsWMaHWJo5vw46cdvfGZsauUYw/viewform
 
@@ -82,7 +82,7 @@ The five developers answers can be accessed on developersGoogleDocsEvaluation.cs
 Step 5 - Results
 -----------------------------------------------------------
 
-Location: 5-Results
+Location: [5-Results](https://github.com/carloseduardoxp/VEM2021-reproduction-kit/tree/main/5-Results)
 
 In this step, we created a simple Java Project called GenerateRInput to generate the input csv files to R (or RStudio). This project reads the developers evaluations and produces 3 files: 
 
